@@ -1,3 +1,7 @@
 abcdefg
 
 we are writing stuff here
+
+another line!!! WOW
+
+this line will be commited to the new_branch branch :)
